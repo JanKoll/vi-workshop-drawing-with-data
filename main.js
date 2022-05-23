@@ -9,7 +9,7 @@ var barPadding = 1;
 
 (async () => {
 
-    await d3.csv('./temperature.csv', function(data) {
+    await d3.csv('./temperature-2050.csv', function(data) {
         temperature.push(parseInt(data.temperature));
         month.push(data.month);
     });
