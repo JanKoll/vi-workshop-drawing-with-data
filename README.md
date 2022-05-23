@@ -1,10 +1,12 @@
-# Workshop: Drawing with data
+# Workshop: Scales & Axes
 
-Erstelle ein Bar-Chart, das den vorgegebenen Temperaturdatensatz abbildet. 
-Folgende Anforderungen sollen berücksichtigt werden:
+Wir haben das Jahr 2050 und unser neuer Temperaturdatensatz läuft aus unserem SVG.
 
-- Die Temperatur wird durch die Höhe der Bars abgebildet
-- Farbliche Gestaltung der Bars: 
-    - Temperatur ≥ 15 Grad: Rot
-    - Temperatur < 15 Grad: Blau
-- Beschrifte die einzelnen Bars mit den jeweiligen Monatsnamen
+Ergänze die Bar-Chart um ein Scale, das sich dem SVG anpasst, auch wenn sich die Daten ändern und füge eine Achse an der linken Seite hinzu, sodass sie zu erkennen ist.
+
+## Setup
+
+```
+git clone https://github.com/JanKoll/vi-workshop-drawing-with-data.git vi-workshop-scales-axes
+cd vi-workshop-scales-axes
+```
