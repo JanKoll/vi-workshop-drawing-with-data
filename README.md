@@ -1,8 +1,8 @@
 # Workshop: Scales & Axes
 
-Wir haben das Jahr 2050 und unser neuer Temperaturdatensatz läuft aus unserem SVG.
+Wir haben das Jahr 2050 und unser neuer Temperaturdatensatz läuft in der Höhe aus unserem SVG.
 
-Ergänze die Bar-Chart um ein Scale, das sich dem SVG anpasst, auch wenn sich die Daten ändern und füge eine Achse an der linken Seite hinzu, sodass sie zu erkennen ist.
+Ergänze die Bar-Chart um ein Y-Scale, das sich dem SVG anpasst, auch wenn sich die Daten ändern und füge eine Y-Achse hinzu.
 
 ## Setup
 
